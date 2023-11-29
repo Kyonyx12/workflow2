@@ -12,3 +12,5 @@ Modo  2 para colaborar
 ## Alejandro W/H
 
 ## Escobedo Rojo
+
+## Antonio Lopez

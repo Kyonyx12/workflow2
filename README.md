@@ -10,3 +10,5 @@ Modo  2 para colaborar
 ## Jennifer Damaso
 
 ## Alejandro W/H
+
+## Escobedo Rojo
